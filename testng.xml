@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Automation Test Suite" verbose="1" >
+  <test name="Automation Tests" >
+    <classes>
+       <class name="com.qa.testproject.TestCaseOne"/>
+       <class name="com.qa.testproject.TestCaseTwo"/>
+    </classes>
+  </test>
+</suite>

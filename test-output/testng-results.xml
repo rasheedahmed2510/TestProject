@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="10" passed="10">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Automation Test Suite" duration-ms="87" started-at="2019-09-26T05:16:40Z" finished-at="2019-09-26T05:16:41Z">
+    <groups>
+    </groups>
+    <test name="Automation Tests" duration-ms="87" started-at="2019-09-26T05:16:40Z" finished-at="2019-09-26T05:16:41Z">
+      <class name="com.qa.testproject.TestCaseOne">
+        <test-method status="PASS" signature="precondition()[pri:0, instance:com.qa.testproject.TestCaseOne@174d20a]" name="precondition" is-config="true" duration-ms="7" started-at="2019-09-26T10:46:40Z" finished-at="2019-09-26T10:46:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- precondition -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.qa.testproject.TestCaseOne@174d20a]" name="test1" duration-ms="10" started-at="2019-09-26T10:46:40Z" finished-at="2019-09-26T10:46:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="postondition()[pri:0, instance:com.qa.testproject.TestCaseOne@174d20a]" name="postondition" is-config="true" duration-ms="0" started-at="2019-09-26T10:46:40Z" finished-at="2019-09-26T10:46:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postondition -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:com.qa.testproject.TestCaseOne@174d20a]" name="test2" duration-ms="2" started-at="2019-09-26T10:46:40Z" finished-at="2019-09-26T10:46:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="precondition()[pri:0, instance:com.qa.testproject.TestCaseOne@174d20a]" name="precondition" is-config="true" duration-ms="0" started-at="2019-09-26T10:46:40Z" finished-at="2019-09-26T10:46:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- precondition -->
+        <test-method status="PASS" signature="precondition()[pri:0, instance:com.qa.testproject.TestCaseOne@174d20a]" name="precondition" is-config="true" duration-ms="1" started-at="2019-09-26T10:46:40Z" finished-at="2019-09-26T10:46:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- precondition -->
+        <test-method status="PASS" signature="postondition()[pri:0, instance:com.qa.testproject.TestCaseOne@174d20a]" name="postondition" is-config="true" duration-ms="0" started-at="2019-09-26T10:46:40Z" finished-at="2019-09-26T10:46:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postondition -->
+        <test-method status="PASS" signature="test3()[pri:0, instance:com.qa.testproject.TestCaseOne@174d20a]" name="test3" duration-ms="1" started-at="2019-09-26T10:46:40Z" finished-at="2019-09-26T10:46:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+        <test-method status="PASS" signature="postondition()[pri:0, instance:com.qa.testproject.TestCaseOne@174d20a]" name="postondition" is-config="true" duration-ms="0" started-at="2019-09-26T10:46:41Z" finished-at="2019-09-26T10:46:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postondition -->
+        <test-method status="PASS" signature="precondition()[pri:0, instance:com.qa.testproject.TestCaseOne@174d20a]" name="precondition" is-config="true" duration-ms="0" started-at="2019-09-26T10:46:41Z" finished-at="2019-09-26T10:46:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- precondition -->
+        <test-method status="PASS" signature="test4()[pri:0, instance:com.qa.testproject.TestCaseOne@174d20a]" name="test4" duration-ms="2" started-at="2019-09-26T10:46:41Z" finished-at="2019-09-26T10:46:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test4 -->
+        <test-method status="PASS" signature="postondition()[pri:0, instance:com.qa.testproject.TestCaseOne@174d20a]" name="postondition" is-config="true" duration-ms="1" started-at="2019-09-26T10:46:41Z" finished-at="2019-09-26T10:46:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postondition -->
+        <test-method status="PASS" signature="precondition()[pri:0, instance:com.qa.testproject.TestCaseOne@174d20a]" name="precondition" is-config="true" duration-ms="0" started-at="2019-09-26T10:46:41Z" finished-at="2019-09-26T10:46:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- precondition -->
+        <test-method status="PASS" signature="test5()[pri:0, instance:com.qa.testproject.TestCaseOne@174d20a]" name="test5" duration-ms="2" started-at="2019-09-26T10:46:41Z" finished-at="2019-09-26T10:46:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test5 -->
+        <test-method status="PASS" signature="postondition()[pri:0, instance:com.qa.testproject.TestCaseOne@174d20a]" name="postondition" is-config="true" duration-ms="0" started-at="2019-09-26T10:46:41Z" finished-at="2019-09-26T10:46:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postondition -->
+      </class> <!-- com.qa.testproject.TestCaseOne -->
+      <class name="com.qa.testproject.TestCaseTwo">
+        <test-method status="PASS" signature="precondition()[pri:0, instance:com.qa.testproject.TestCaseTwo@66d2e7d9]" name="precondition" is-config="true" duration-ms="0" started-at="2019-09-26T10:46:41Z" finished-at="2019-09-26T10:46:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- precondition -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.qa.testproject.TestCaseTwo@66d2e7d9]" name="test1" duration-ms="1" started-at="2019-09-26T10:46:41Z" finished-at="2019-09-26T10:46:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="postondition()[pri:0, instance:com.qa.testproject.TestCaseTwo@66d2e7d9]" name="postondition" is-config="true" duration-ms="0" started-at="2019-09-26T10:46:41Z" finished-at="2019-09-26T10:46:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postondition -->
+        <test-method status="PASS" signature="precondition()[pri:0, instance:com.qa.testproject.TestCaseTwo@66d2e7d9]" name="precondition" is-config="true" duration-ms="0" started-at="2019-09-26T10:46:41Z" finished-at="2019-09-26T10:46:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- precondition -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:com.qa.testproject.TestCaseTwo@66d2e7d9]" name="test2" duration-ms="1" started-at="2019-09-26T10:46:41Z" finished-at="2019-09-26T10:46:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="postondition()[pri:0, instance:com.qa.testproject.TestCaseTwo@66d2e7d9]" name="postondition" is-config="true" duration-ms="0" started-at="2019-09-26T10:46:41Z" finished-at="2019-09-26T10:46:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postondition -->
+        <test-method status="PASS" signature="test3()[pri:0, instance:com.qa.testproject.TestCaseTwo@66d2e7d9]" name="test3" duration-ms="2" started-at="2019-09-26T10:46:41Z" finished-at="2019-09-26T10:46:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+        <test-method status="PASS" signature="precondition()[pri:0, instance:com.qa.testproject.TestCaseTwo@66d2e7d9]" name="precondition" is-config="true" duration-ms="0" started-at="2019-09-26T10:46:41Z" finished-at="2019-09-26T10:46:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- precondition -->
+        <test-method status="PASS" signature="postondition()[pri:0, instance:com.qa.testproject.TestCaseTwo@66d2e7d9]" name="postondition" is-config="true" duration-ms="1" started-at="2019-09-26T10:46:41Z" finished-at="2019-09-26T10:46:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postondition -->
+        <test-method status="PASS" signature="precondition()[pri:0, instance:com.qa.testproject.TestCaseTwo@66d2e7d9]" name="precondition" is-config="true" duration-ms="0" started-at="2019-09-26T10:46:41Z" finished-at="2019-09-26T10:46:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- precondition -->
+        <test-method status="PASS" signature="test4()[pri:0, instance:com.qa.testproject.TestCaseTwo@66d2e7d9]" name="test4" duration-ms="2" started-at="2019-09-26T10:46:41Z" finished-at="2019-09-26T10:46:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test4 -->
+        <test-method status="PASS" signature="postondition()[pri:0, instance:com.qa.testproject.TestCaseTwo@66d2e7d9]" name="postondition" is-config="true" duration-ms="0" started-at="2019-09-26T10:46:41Z" finished-at="2019-09-26T10:46:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postondition -->
+        <test-method status="PASS" signature="test5()[pri:0, instance:com.qa.testproject.TestCaseTwo@66d2e7d9]" name="test5" duration-ms="2" started-at="2019-09-26T10:46:41Z" finished-at="2019-09-26T10:46:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test5 -->
+        <test-method status="PASS" signature="precondition()[pri:0, instance:com.qa.testproject.TestCaseTwo@66d2e7d9]" name="precondition" is-config="true" duration-ms="0" started-at="2019-09-26T10:46:41Z" finished-at="2019-09-26T10:46:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- precondition -->
+        <test-method status="PASS" signature="postondition()[pri:0, instance:com.qa.testproject.TestCaseTwo@66d2e7d9]" name="postondition" is-config="true" duration-ms="1" started-at="2019-09-26T10:46:41Z" finished-at="2019-09-26T10:46:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postondition -->
+      </class> <!-- com.qa.testproject.TestCaseTwo -->
+    </test> <!-- Automation Tests -->
+  </suite> <!-- Automation Test Suite -->
+</testng-results>
